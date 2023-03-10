@@ -22,6 +22,4 @@ The latter is the subject of the most my volunteer activities.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=poretsky&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=poretsky)  
-
 ![Profile views](https://gpvc.arturio.dev/poretsky)  
