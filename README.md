@@ -13,7 +13,7 @@ My main professional areas include:
 - Mathematics;
 - Accessibility solutions.
 
-The latter is the subject of the most my volunteer activity.
+The latter is the subject of the most my volunteer activities.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/poretsky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://poretsky.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://poretsky.github.io/packages)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='android' height='40'>](https://poretsky.github.io/android)  
