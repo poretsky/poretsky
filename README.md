@@ -16,11 +16,11 @@ My main professional areas include:
 The latter is the subject of the most my volunteer activities.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/poretsky)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://poretsky.github.io)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://poretsky.github.io/packages)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/launchpad.svg' alt='launchpad' height='40'>](https://launchpad.net/~poretsky)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='android' height='40'>](https://poretsky.github.io/android)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/github.svg' alt='github' height='40'>](https://github.com/poretsky)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/icloud.svg' alt='website' height='40'>](https://poretsky.github.io)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/linux.svg' alt='linux' height='40'>](https://poretsky.github.io/packages)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/launchpad.svg' alt='launchpad' height='40'>](https://launchpad.net/~poretsky)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/android.svg' alt='android' height='40'>](https://poretsky.github.io/android)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poretsky)  
